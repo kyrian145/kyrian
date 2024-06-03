@@ -1,0 +1,10 @@
+module.exports = {
+    theme: {
+      extend: {
+        backgroundImage: {
+          'hero-pattern': "url('/image/image11.jpg')",
+          
+        }
+      }
+    }
+  }
